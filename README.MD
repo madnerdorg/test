@@ -1,17 +1,26 @@
-[Version française / French version](https://github.com/madnerdorg/utest/blob/master/README.fr.MD)
+[Version française / French version](https://github.com/madnerdorg/test/blob/master/README.fr.MD)
 
 test : Control the embedded led on an Arduino   
 -------------------
-![LedAnimation]()
+![LedAnimation](https://github.com/madnerdorg/test/blob/master/doc/nano_led_anim.gif?raw=true)
 
 # Usage
-* Install drivers for arduino nano (clone ch340g)  : http://nano.madnerd.org
 * Download arduino code : [test.ino](http://github.com/madnerdorg/test/)
 * Upload sketch **test/test.ino**
-* Go to the [demo page](http://libre.ovh/howto.html)
+* Open [Libre Connect - usb_scanner.exe](http://github.com/madnerdorg/libreConnect/releases)
+* Go to this page : [demo page](http://libre.ovh/howto.html)
 
-How to install drivers : [![https://www.youtube.com/watch?v=m3CsftsfiQU](https://i.ytimg.com/vi/m3CsftsfiQU/hqdefault.jpg)](https://www.youtube.com/watch?v=m3CsftsfiQU)
+If the demo page doesn't works you can 
+* Download LibreInterface : https://github.com/madnerdorg/libreinterface/archive/master.zip
+* Click on **howto.html**
+
+You will need [Arduino nano drivers](http://nano.madnerd.org) :    
+[![https://www.youtube.com/watch?v=m3CsftsfiQU](https://i.ytimg.com/vi/m3CsftsfiQU/hqdefault.jpg)](https://www.youtube.com/watch?v=m3CsftsfiQU)
+
+# Components
+* Arduino nano clone (CH340g)
 
 # Licences
 * Software by Rémi Sarrailh (madnerd.org)
 * Licence: MIT
+
