@@ -8,7 +8,7 @@ test : Contrôler la led de l'arduino.
 * Télécharger le code arduino : [test.ino](http://github.com/madnerdorg/test/)
 * Téléverser le croquis **test/test.ino**
 * Ouvrez [Libre Connect - usb_scanner.exe](http://github.com/madnerdorg/libreConnect/releases)
-* Aller sur la [page de demo](http://libre.ovh/howto.html)
+* Aller sur la [page de demo](http://madnerd.org/interface/howto.html)
 
 Si la page de demo ne fonctionne pas vous pouvez:
 * Télécharger LibreInterface : https://github.com/madnerdorg/libreinterface/archive/master.zip
