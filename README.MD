@@ -8,7 +8,7 @@ test : Control the embedded led on an Arduino
 * Download arduino code : [test.ino](http://github.com/madnerdorg/test/)
 * Upload sketch **test/test.ino**
 * Open [Libre Connect - usb_scanner.exe](http://github.com/madnerdorg/libreConnect/releases)
-* Go to this page : [demo page](http://libre.ovh/howto.html)
+* Go to this page : [demo page](http://madnerd.org/interface/howto.html)
 
 If the demo page doesn't works you can 
 * Download LibreInterface : https://github.com/madnerdorg/libreinterface/archive/master.zip
