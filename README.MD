@@ -1,4 +1,4 @@
-[Français](README.fr.md)
+[Français](README.fr)
 
 [![Libre Connect](https://madnerdorg.github.io/libreconnect/doc/img/libreconnect_banner.png)](https://madnerdorg.github.io/libreconnect/)   
 
