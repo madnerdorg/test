@@ -59,8 +59,9 @@ void loop() {
   //If string received
   if (readString.length() > 0) {
     serialCheck();
+    //We clean the serial buffer
+  readString = "";
   }
 
-  //We clean the serial buffer
-  readString = "";
+ 
 }
