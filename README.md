@@ -1,6 +1,6 @@
 [Français](https://madnerdorg.github.io/test/README.fr)
 
-[![Libre Connect](https://madnerdorg.github.io/libreconnect/doc/img/libreconnect_banner.png)](https://madnerdorg.github.io/libreconnect/)     
+[![Libre Connect](https://madnerdorg.github.io/libreconnect/doc/img/libreconnect_devices_banner.png)](https://madnerdorg.github.io/libreconnect/doc/en/devices)     
 # test : Control the embedded led on an Arduino   
 
 ![LedAnimation](doc/nano_led_anim.gif?raw=true)
