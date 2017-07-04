@@ -1,4 +1,4 @@
-[Français](README.fr)
+[Français](https://madnerdorg.github.io/test/README.fr)
 
 [![Libre Connect](https://madnerdorg.github.io/libreconnect/doc/img/libreconnect_banner.png)](https://madnerdorg.github.io/libreconnect/)     
 # test : Control the embedded led on an Arduino   
